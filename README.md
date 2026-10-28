@@ -1,8 +1,14 @@
-# Cryptovexxing (legacy name)
+# ARCHIVED — Cryptovexxing (legacy name)
 
-This repository is a name placeholder.
+**This repository is archived.**
 
-**Active terminal demo:** https://github.com/golddexzy-create/Cryptovexxing.com  
-**Live:** https://golddexzy-create.github.io/Cryptovexxing.com/
+Do not use it for code or deploys.
 
-Use the `Cryptovexxing.com` repo for code and updates.
+## Active projects
+
+| Project | Repo | Live |
+|---------|------|------|
+| **Crypto terminal (multi-desk)** | [Cryptovexxing.com](https://github.com/golddexzy-create/Cryptovexxing.com) | https://golddexzy-create.github.io/Cryptovexxing.com/ |
+| **UseCaseAgents directory** | [usecaseagents](https://github.com/golddexzy-create/usecaseagents) | https://usecaseagents-2ti5.vercel.app |
+
+Please star / watch the active repos above instead of this one.
